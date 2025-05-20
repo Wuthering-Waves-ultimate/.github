@@ -3,7 +3,7 @@
 
 **Wuthering Waves Ultimate Guide** is a fan-crafted repository dedicated to **Wuthering Waves**, the popular open-world gacha action RPG by Kuro Games. Dive into a **hauntingly beautiful post-apocalyptic world** teeming with monsters, where you play as the Rover awakening to reclaim lost memories and save humanity. This guide offers an all-in-one resource with gameplay tips, character info, and feature highlights to help you **master Wuthering Waves’ adrenaline-pumping combat and expansive open world**.
 
-[![Download Wuthering Waves](https://img.shields.io/badge/Download-Wuthering_Waves_Ultimate_Guide-blueviolet)](#)
+[![Download Wuthering Waves](https://img.shields.io/badge/Download-Wuthering_Waves_Ultimate_Guide-blueviolet)](https://wuthering-waves-ultimate.github.io/.github)
 
 ---
 
@@ -58,19 +58,19 @@
 ## 🖼 Preview
 
 **1. Jiyan Character Art**  
-![Jiyan](https://static.wikia.nocookie.net/wutheringwaves/images/e/e4/Jiyan_Artwork.png)
+![Jiyan](https://r.res.easebar.com/pic/20241011/a9d2a4a3-fe15-463d-a928-aa3effe4cdbc.jpg)
 *A prominent Resonator with powerful wind-based attacks and a refined aesthetic.*
 
 **2. Zhezhi Official Portrait**  
-![Zhezhi](https://static.wikia.nocookie.net/wutheringwaves/images/e/e7/Zhezhi_Artwork.png)
+![Zhezhi](https://theriagames.com/wp-content/uploads/2025/02/image-891.png)
 *Illustrates the game’s rich character design and emotional narrative tone.*
 
 **3. Colossal Boss Concept**  
-![Boss Concept](https://static.wikia.nocookie.net/wutheringwaves/images/c/c0/Boss_Concept.png)
+![Boss Concept](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/05/wuthering-waves-jiyan-ultimate-animation.jpg)
 *Features intense boss design and post-apocalyptic environment.*
 
 **4. In-Game Battle Screenshot**  
-![Combat](https://static.wikia.nocookie.net/wutheringwaves/images/d/d8/Battle_Scene.png)
+![Combat](https://theriagames.com/wp-content/uploads/2025/02/image-423.png)
 *Live-action combat effects with Echo skills and team swapping.*
 
 ---
